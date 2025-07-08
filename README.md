@@ -25,14 +25,7 @@ This project is a simple and effective **LPG Gas Detection System** built using 
 | 220-ohm Resistor | 1        |
 | Breadboard & Jumper Wires | As needed |
 
----
-
-## ⚙️ Circuit Diagram
-
-> 📷 *Add a circuit diagram image here or a link to a Fritzing file.*
-
----
-
+-
 ## 📄 How It Works
 
 1. The **MQ-2 sensor** continuously reads gas concentration in the air.
